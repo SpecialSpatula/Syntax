@@ -1,11 +1,17 @@
-CMPUT 301 : Lab 3 Participation Exercise
-Student Details
-Full Name: Luke Salonka
-CCID: salonka
-References and Resources
+# CMPUT 301 : Lab 4 Participation Exercise
+
+## Student Details
+
+- **Full Name:** `Luke Salonka`
+- **CCID:** `salonka`
+
+## References and Resources
+
 N/A
 
-Verbal Collaboration
+
+## Verbal Collaboration
+
 Sorachat Chaichana
 Uchenna Ibeziako
 Audrey Oni
