@@ -12,8 +12,12 @@ N/A
 
 ## Verbal Collaboration
 
-Sorachat Chaichana
-Uchenna Ibeziako
-Audrey Oni
-Zelin Zeng
-Andrew Hughes
+-Sorachat Chaichana
+
+-Uchenna Ibeziako
+
+-Audrey Oni
+
+-Zelin Zeng
+
+-Andrew Hughes
